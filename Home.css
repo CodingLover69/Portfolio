@@ -132,7 +132,8 @@
 
 .u-section-2 .u-image-2 {
   min-height: 863px;
-  background-image: url("images/ret-min1.jpg");
+  background-image: url("images/ret-min1.png");
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-container-layout-2 {
